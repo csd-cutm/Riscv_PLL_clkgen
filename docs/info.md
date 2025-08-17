@@ -9,11 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Simple PLL circuit to generate clock
 
 ## How to test
 
-Explain how to use your project
+Providing suitable input and output
+
 
 ## External hardware
 
