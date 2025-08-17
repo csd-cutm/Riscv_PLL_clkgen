@@ -1,11 +1,4 @@
-/*
- * Copyright (c) 2024 Your Name
- * SPDX-License-Identifier: Apache-2.0
- */
-
-`default_nettype none
-
-module tt_um_example (
+module tt_um_tiny_pll (
 	input wire VGND,
 	input wire VPWR,
 	input wire [7:0] ui_in,
@@ -182,3 +175,4 @@ tt08_integration tt08_custom (
 );
 
 endmodule
+
